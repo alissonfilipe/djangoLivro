@@ -19,7 +19,7 @@ class Funcionario(models.Model):
         blank=False
     )
     
-     tempo_de_servico = models.IntegerField(
+    tempo_de_servico = models.IntegerField(
         default=0,
         null=False,
         blank=False
@@ -33,5 +33,5 @@ class Funcionario(models.Model):
     )
     
     objetos = models.Manager()
-
+    
 

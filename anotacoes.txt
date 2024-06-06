@@ -1,8 +1,14 @@
-esse arquivo é apenas para me orientar
+-------------------------------------------------esse arquivo é apenas para me orientar----------------------------------------------------
 
+--------------------------------------------------------INFORMAÇÕES IMPORTANTES------------------------------------------------------------
+
+                                            toda vez que você alterar um arquivo de modelo, não se
+                                            esqueça de executar python manage.py makemigrations!
 
 ---------------------------------------------------------------ATUAIS-----------------------------------------------------------------------
+eu esqueci de colocar as anotações no github(06/06/2024)
+fiquei na página 24 e já instalei o DB browser falat só da os passos seguintes
+
+---------------------------------------------------------------ANTIGAS---------------------------------------------------------------------
 eu tava escrevendo os models.py os modelos e não terminei
 parei na parte da camada model(05/06/2024)
-
--------------------------------------------------------------ANTIGAS------------------------------------------------------------------------
